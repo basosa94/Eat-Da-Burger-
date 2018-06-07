@@ -1,0 +1,41 @@
+li {
+  padding: 15px;
+  margin: 15px;
+  background: white;
+	list-style: none;
+	border: 1px black solid;
+}
+
+.center {
+	text-align: center;
+}
+
+img {
+	align-content: center;
+}
+
+h2 {
+	text-align: center;
+	text-shadow: 2px 2px white;
+	border: 1px black solid;
+}
+
+.create-update-form {
+  padding: 20px;
+  margin: 20px;
+  background: white;
+  border: 1px black solid;
+}
+
+.form-group {
+  margin-bottom: 25px;
+}
+
+body { 
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG8bf4mw5WXoFjl0uy7fFgLnlHS60wlUd761OSMLUy05v0VS-oKQ");
+	background-position: center center;
+	background-repeat:  no-repeat;
+	background-attachment: fixed;
+	background-size:  cover;
+}
+
